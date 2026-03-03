@@ -22,7 +22,7 @@ The goal is consistency.
 
 | Day | Topic | Link |
 |-----|-------|------|
-| 1 | Exploring Get-Command & Get-Help | Coming Soon |
+| 1 | Exploring Get-Command & Get-Help | [Day 001](days/day-001/README.md) |
 
 ---
 
