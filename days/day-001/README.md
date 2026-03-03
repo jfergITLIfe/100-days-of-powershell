@@ -1,7 +1,15 @@
 # Day 001 – Exploring Get-Command & Get-Help
 
-## 🎯 Goal
+## 🎯 Goal 
 Understand how to discover and research commands in PowerShell.
+
+## Script Summary
+
+This scipt: 
+- Displays PowerShell version information
+- Lists commands related to processes
+- Retrieves the help synopsis for `Get-Process`
+- Counts how many process-related cmdlets exist
 
 ---
 
