@@ -23,8 +23,6 @@ The goal is consistency.
 | Day | Topic | Link |
 |-----|-------|------|
 | 1 | Exploring Get-Command & Get-Help | Coming Soon |
-| 2 | Pipelines & Objects | Coming Soon |
-| 3 | Filtering with Where-Object | Coming Soon |
 
 ---
 
