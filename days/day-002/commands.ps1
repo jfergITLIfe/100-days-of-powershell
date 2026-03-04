@@ -43,7 +43,7 @@ Write-Host ""
 
 # Example parameter usage
 Write-Host "Example of using parameters:" -ForegroundColor Yellow
-Get-Process -Name powershell
+Get-Process -Name chrome
 Write-Host ""
 
 Write-Host "===== End of Day 2 Script =====" -ForegroundColor Cyan
