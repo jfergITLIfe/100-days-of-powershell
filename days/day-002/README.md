@@ -264,3 +264,8 @@ $processList = Get-Process
 # Progress Log
 
 I hope that you are able to take away some value from this. Check out todays script and write it yourself for practice. Repition is key. 
+
+# Practice Script 
+The commands practices for day 2 are included here. 
+[View the PowerShell Script](./commands.ps1)
+
