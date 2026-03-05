@@ -24,6 +24,7 @@ The goal is consistency.
 |-----|-------|------|
 | 1 | Exploring Get-Command & Get-Help | [Day 001](days/day-001/README.md) |
 | 2 | PowerShell Fundamentals: Aliases, Parameters, and Variables | [Day 002](days/day-002/README.md) |
+| 2 | PowerShell Fundamentals: Aliases, Parameters, and Variables | [Day 003](days/day-003/README.md) |
 
 ---
 
