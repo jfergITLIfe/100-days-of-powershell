@@ -26,6 +26,7 @@ The goal is consistency.
 | 2 | Aliases, Parameters, and Variables | [Day 002](days/day-002/README.md) |
 | 3 | Variables, Objects, Arrays| [Day 003](days/day-003/README.md) |
 | 4 | Pipelines, Parameter Binding| [Day 004](days/day-004/README.md) |
+| 5 | PowerShell Scripts| [Day 005](days/day-005/README.md) |
 
 ---
 
