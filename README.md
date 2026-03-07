@@ -27,6 +27,7 @@ The goal is consistency.
 | 3 | Variables, Objects, Arrays| [Day 003](days/day-003/README.md) |
 | 4 | Pipelines, Parameter Binding| [Day 004](days/day-004/README.md) |
 | 5 | PowerShell Scripts| [Day 005](days/day-005/README.md) |
+| 6 | Comparison Operators| [Day 006](days/day-006/README.md) |
 
 ---
 
