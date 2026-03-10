@@ -28,6 +28,7 @@ The goal is consistency.
 | 4 | Pipelines, Parameter Binding| [Day 004](days/day-004/README.md) |
 | 5 | PowerShell Scripts| [Day 005](days/day-005/README.md) |
 | 6 | Comparison Operators| [Day 006](days/day-006/README.md) |
+| 7 | if, elseif, else| [Day 007](days/day-007/README.md) |
 
 ---
 
