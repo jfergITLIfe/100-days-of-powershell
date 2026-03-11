@@ -29,6 +29,7 @@ The goal is consistency.
 | 5 | PowerShell Scripts| [Day 005](days/day-005/README.md) |
 | 6 | Comparison Operators| [Day 006](days/day-006/README.md) |
 | 7 | if, elseif, else| [Day 007](days/day-007/README.md) |
+| 8 | loops | [Day 008](days/day-008/README.md) |
 
 ---
 
