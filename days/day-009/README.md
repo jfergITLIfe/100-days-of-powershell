@@ -305,4 +305,4 @@ Sometimes slowing down to reinforce the basics makes future learning much easier
 If you're also learning PowerShell or cybersecurity, feel free to connect.
 
 LinkedIn  
-https://www.linkedin.com/itlife
+https://www.linkedin.com/in/itlife
