@@ -31,6 +31,8 @@ The goal is consistency.
 | 7 | if, elseif, else| [Day 007](days/day-007/README.md) |
 | 8 | loops | [Day 008](days/day-008/README.md) |
 | 9 | Reviewing (Variables, Objects, Arrays | [Day 009](days/day-009/README.md) |
+| 10 | PowerShell Log File Parser | [Day 009](days/day-009/README.md) |
+
 
 ---
 
