@@ -1,0 +1,86 @@
+:root {
+  --ifm-color-primary: #0f7acc;
+  --ifm-color-primary-dark: #0d6db8;
+  --ifm-color-primary-darker: #0c67ad;
+  --ifm-color-primary-darkest: #0a548f;
+  --ifm-color-primary-light: #1187e0;
+  --ifm-color-primary-lighter: #1a8de3;
+  --ifm-color-primary-lightest: #359de8;
+  --ifm-code-font-size: 90%;
+  --docusaurus-highlighted-code-line-bg: rgba(15, 122, 204, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #4db8ff;
+  --ifm-color-primary-dark: #29a8ff;
+  --ifm-color-primary-darker: #17a0ff;
+  --ifm-color-primary-darkest: #0086e0;
+  --ifm-color-primary-light: #71c6ff;
+  --ifm-color-primary-lighter: #83ceff;
+  --ifm-color-primary-lightest: #b8e5ff;
+  --docusaurus-highlighted-code-line-bg: rgba(77, 184, 255, 0.1);
+  --ifm-background-color: #0d1117;
+  --ifm-background-surface-color: #161b22;
+}
+
+/* Phase badges */
+.phase-badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 2px 10px;
+  border-radius: 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
+}
+
+.phase-1 { background: #e1f5ee; color: #085041; }
+.phase-2 { background: #e6f1fb; color: #0c447c; }
+.phase-3 { background: #eeedfe; color: #3c3489; }
+.phase-4 { background: #faeeda; color: #633806; }
+.phase-5 { background: #fcebeb; color: #791f1f; }
+
+[data-theme='dark'] .phase-1 { background: #085041; color: #9fe1cb; }
+[data-theme='dark'] .phase-2 { background: #0c447c; color: #b5d4f4; }
+[data-theme='dark'] .phase-3 { background: #3c3489; color: #cecbf6; }
+[data-theme='dark'] .phase-4 { background: #633806; color: #fac775; }
+[data-theme='dark'] .phase-5 { background: #791f1f; color: #f7c1c1; }
+
+/* Challenge box */
+.challenge-box {
+  border-left: 3px solid var(--ifm-color-primary);
+  background: var(--ifm-code-background);
+  padding: 1rem 1.25rem;
+  border-radius: 0 8px 8px 0;
+  margin: 1.5rem 0;
+}
+
+.challenge-box p:last-child { margin-bottom: 0; }
+
+/* Submit box */
+.submit-box {
+  border: 1px solid var(--ifm-color-primary);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  background: var(--ifm-background-surface-color);
+}
+
+/* Day header meta row */
+.day-meta {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 1rem;
+  font-size: 0.8rem;
+  color: var(--ifm-color-content-secondary);
+}
+
+.day-meta span {
+  background: var(--ifm-code-background);
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-family: var(--ifm-font-family-monospace);
+}
