@@ -1,12 +1,9 @@
 # 100 Days of PowerShell
 
-> A beginner-to-security-ready challenge by [JfergITLife](https://linkedin.com/in/itlife).  
+> A beginner-to-more-experienced-beginner challenge by [JfergITLife](https://linkedin.com/in/itlife).  
 > 5–10 minutes a day. Real scripts. Real proof.
 
 [![Challenge](https://img.shields.io/badge/challenge-100%20days-0f7acc?style=flat-square)](https://jfergitlife.github.io/100-days-of-powershell)
-[![Phase 1](https://img.shields.io/badge/phase%201-foundations-1D9E75?style=flat-square)](#)
-[![Phase 5](https://img.shields.io/badge/phase%205-security%20pipeline-E24B4A?style=flat-square)](#)
-[![License: MIT](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](LICENSE)
 
 ---
 
@@ -66,6 +63,3 @@ This challenge exists because I wish it had existed when I was learning PowerShe
 
 ---
 
-## License
-
-MIT — fork it, build on it, share it.
