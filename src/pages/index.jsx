@@ -99,10 +99,16 @@ export default function Home() {
                     {p.desc}
                   </p>
                 </div>
-                <Link to={`/docs/phase-${p.num}/day-${p.days.split('–')[0]}`}
-                  style={{ fontSize: '13px', color: 'var(--ifm-color-primary)', whiteSpace: 'nowrap', flexShrink: 0 }}>
-                  Start →
-                </Link>
+                {p.num === 1 ? (
+  <Link to="/docs/phase-1/day-001"
+    style={{ fontSize: '13px', color: 'var(--ifm-color-primary)', whiteSpace: 'nowrap', flexShrink: 0 }}>
+    Start →
+  </Link>
+) : (
+  <span style={{ fontSize: '13px', color: 'var(--ifm-color-content-secondary)', whiteSpace: 'nowrap', flexShrink: 0 }}>
+    Coming soon
+  </span>
+)}
               </div>
             ))}
           </div>
